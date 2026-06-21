@@ -1,36 +1,31 @@
 ## Hi there 👋
 
-<!--
-**venkat-venkat-080206/venkat-venkat-080206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Hi 👋, I'm Venkat</h1>
-<p>🚀 About Me
+    Artificial Intelligence & Data Science Undergraduate <img src="https://github.com/venkat-venkat-080206/venkat-venkat-080206/blob/main/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right"/>
 
-🎓 Artificial Intelligence & Data Science Undergraduate
+- **Developer Analyst** with a passion for building scalable software solutions
 
-💼 Developer Analyst with a passion for building scalable software solutions.
+- **Completed** Full Stack Development Program through **NxtWave**
 
-📚 Completed Full Stack Development training through NxtWave and continuously expanding my expertise in Software Engineering, Cloud Computing, AI/ML, and MLOps.
+- **Interested in:**
+  - Software Development Engineering (SDE)
+  - Full Stack Development
+  - Artificial Intelligence & Machine Learning
+  - MLOps & DevOps
+  - Cloud & Distributed Systems
 
-🔍 Interested in:
-- Software Development Engineering (SDE)
-- Full Stack Development
-- Artificial Intelligence & Machine Learning
-- MLOps & DevOps
-- Cloud & Distributed Systems
+- **Goal:**
+  - Building production-ready software and AI systems
+  - Growing towards SDE, MLOps, and Cloud Engineering roles
 
-⚡ Driven by curiosity, continuous learning, and the challenge of turning complex problems into practical, impactful solutions.</p>
+- **Mindset:**
+  - Driven by curiosity, continuous learning, and solving real-world problems through technology
+
+Feel free to connect or collaborate!
+
+📧 **Email:** venkateshwaran.080206@gmail.com
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
